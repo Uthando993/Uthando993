@@ -1,15 +1,23 @@
 <div align="center">
-  <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/76873947?v=4h=300&w=300&fit=cover&mask=circle&maxage=7d" alt="NA" width="100px"/> 
+  <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/76873947?v=4h=300&w=300&fit=cover&mask=circle&maxage=7d" alt="3D-avatar" width="200px"/> 
 </div>
 
 ### <p align="center">Hey There👋<br>I'm Snehil Pandey.</p>
 
+## GitHub Profile Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Uthando993&show_icons=true&locale=en&theme=github_dark" alt="Stats"/><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Uthando993&theme=dark" alt="Streak"/> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Uthando993&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="activity"/><br>
+</div>
+  
+## My Coding Details:
 #### My mostly preferred coding languages:<br>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://html5.org) 
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://ecma-international.org/publications-and-standards/standards/ecma-262) 
+[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)](https://w3.org/TR/CSS/#css) 
+[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://python.org/)
+[![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://java.com) 
 
 #### Other languages I know:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
