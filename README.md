@@ -2,7 +2,7 @@
   <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/76873947?v=4h=300&w=300&fit=cover&mask=circle&maxage=7d" alt="3D-avatar" width="200px"/> 
 </div>
 
-### <p align="center">Hey There👋<br>I'm Snehil Pandey.</p>
+### <p align="center">Hey There👋<br>I'm Snehil Pandey.</p><br>
 
 ## GitHub Profile Stats:
 [![Profile Views](https://komarev.com/ghpvc/?username=Uthando993&color=0e75b6&style=for-the-badge)](https://#) 
@@ -11,7 +11,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Uthando993&show_icons=true&locale=en&theme=github_dark" alt="Stats"/><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Uthando993&theme=dark" alt="Streak"/> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Uthando993&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="activity"/><br>
-</div>
+</div><br>
   
 ## My Coding Details:
 #### My mostly preferred coding languages:<br>
@@ -22,8 +22,8 @@
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://java.com) 
 
 #### Other languages I know:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+[![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://open-std.org/jtc1/sc22/wg14) 
+[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -41,6 +41,8 @@
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white). 
+<br>
+
 ## Connect with me:
 [![Medium](https://img.shields.io/badge/-Medium-212121?logo=medium&logoWidth=20&logoColor=white&style=for-the-badge)](https://uthando.medium.com)
 [![Sololearn](https://img.shields.io/badge/-Sololearn-aa11aa?logo=sololearn&logoColor=white&style=for-the-badge)](https://www.sololearn.com/profile/20594116)
