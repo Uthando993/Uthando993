@@ -1,5 +1,7 @@
-### Hi there 👋
+<img src="/assets/profile.png" alt="not supported"/>
 
+### Hi there 👋  
+  
 <!--
 **Uthando993/Uthando993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
