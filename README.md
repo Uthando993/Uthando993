@@ -43,3 +43,4 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white). 
 ## Connect with me:
 [![Medium](https://img.shields.io/badge/-Medium-212121?logo=medium&logoWidth=20&logoColor=white&style=for-the-badge)](https://uthando.medium.com)
+[![Sololearn](https://img.shields.io/badge/-Sololearn-blue?logo=sololearn&logoWidth=20&logoColor=white&style=for-the-badge)](https://www.sololearn.com/profile/20594116)
