@@ -23,4 +23,11 @@
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-FFF400?style=for-the-badge)
 ![ASP](https://img.shields.io/badge/asp-F44?style=for-the-badge)<br>
-<b>I don't use these languages much I just wanted to gain experience by knowing them.</b>
+
+> I don't use these languages much I just wanted to gain experience by knowing them.
+
+#### Most common HTML,CSS and JS Frameworks I use:<br>
+![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
+![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
