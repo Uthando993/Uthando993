@@ -5,6 +5,8 @@
 ### <p align="center">Hey There👋<br>I'm Snehil Pandey.</p>
 
 ## GitHub Profile Stats:
+[![Profile Views](https://komarev.com/ghpvc/?username=Uthando993&color=0e75b6&style=for-the-badge)](#) 
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Uthando993&show_icons=true&locale=en&theme=github_dark" alt="Stats"/><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Uthando993&theme=dark" alt="Streak"/> <br>
