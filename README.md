@@ -2,7 +2,8 @@
   <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/76873947?v=4h=300&w=300&fit=cover&mask=circle&maxage=7d" alt="3D-avatar" width="200px"/> 
 </div>
 
-### <p align="center">Hey There👋<br>I'm Snehil Pandey.<br>A full-stack developer.</p><br>
+### <p align="center">Hey There👋<br>I'm Snehil Pandey.<br>A full-stack developer.</p>
+*<p align="center">Currently Dormant in field of Development trying to gain more XP by reducing lines of code</p>*
 
 ## GitHub Profile Stats:
 [![Profile Views](https://komarev.com/ghpvc/?username=Uthando993&color=0e75b6&style=for-the-badge)](https://#) 
@@ -35,7 +36,7 @@
 [![ASP](https://img.shields.io/badge/asp-F44?style=for-the-badge)](https://asp.net/)<br>
 
 > I don't use these languages much I just wanted to gain experience by knowing them.
-> I haven't completed R yet so total count of languages by now is 15.
+> I haven't completed R yet so total count of languages by now is 15.  
 > The reason behind 15 languages is that I'm 15 years old. 
 
 #### Most common HTML,CSS and JS Frameworks I use:<br>
@@ -48,4 +49,4 @@
 ## Connect with me:
 [![Medium](https://img.shields.io/badge/-Medium-212121?logo=medium&logoWidth=20&logoColor=white&style=for-the-badge)](https://s-pandey.medium.com/)
 [![Sololearn](https://img.shields.io/badge/-Sololearn-aa11aa?logo=sololearn&logoColor=white&style=for-the-badge)](https://www.sololearn.com/profile/20594116)
-### Connect me here **snehil@googlegroups.com**
+#### Reach me here **snehil@googlegroups.com**
