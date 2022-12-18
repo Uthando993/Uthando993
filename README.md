@@ -44,5 +44,5 @@
 <br>
 
 ## Connect with me:
-[![Medium](https://img.shields.io/badge/-Medium-212121?logo=medium&logoWidth=20&logoColor=white&style=for-the-badge)](https://uthando.medium.com)
+[![Medium](https://img.shields.io/badge/-Medium-212121?logo=medium&logoWidth=20&logoColor=white&style=for-the-badge)](https://s-pandey.medium.com/)
 [![Sololearn](https://img.shields.io/badge/-Sololearn-aa11aa?logo=sololearn&logoColor=white&style=for-the-badge)](https://www.sololearn.com/profile/20594116)
