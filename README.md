@@ -46,6 +46,10 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 <br>
 
+## Featured Repository:
+[![Terminal](https://github-readme-stats.vercel.app/api/pin/?username=Uthando993&repo=Terminal&show_icons=true&theme=github_dark)](https://github.com/Uthando993/Terminal)<br>
+[![360Image](https://github-readme-stats.vercel.app/api/pin/?username=Uthando993&repo=360Image&show_icons=true&theme=github_dark)](https://github.com/Uthando993/360Image)
+
 ## Connect with me:
 [![Medium](https://img.shields.io/badge/-Medium-212121?logo=medium&logoWidth=20&logoColor=white&style=for-the-badge)](https://s-pandey.medium.com/)
 [![Sololearn](https://img.shields.io/badge/-Sololearn-aa11aa?logo=sololearn&logoColor=white&style=for-the-badge)](https://www.sololearn.com/profile/20594116)
