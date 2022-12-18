@@ -2,7 +2,7 @@
   <img src="https://images.weserv.nl/?url=avatars.githubusercontent.com/u/76873947?v=4h=300&w=300&fit=cover&mask=circle&maxage=7d" alt="3D-avatar" width="200px"/> 
 </div>
 
-### <p align="center">Hey There👋<br>I'm Snehil Pandey.</p><br>
+### <p align="center">Hey There👋<br>I'm Snehil Pandey.<br>A full-stack developer.</p><br>
 
 ## GitHub Profile Stats:
 [![Profile Views](https://komarev.com/ghpvc/?username=Uthando993&color=0e75b6&style=for-the-badge)](https://#) 
@@ -35,6 +35,8 @@
 [![ASP](https://img.shields.io/badge/asp-F44?style=for-the-badge)](https://asp.net/)<br>
 
 > I don't use these languages much I just wanted to gain experience by knowing them.
+> I haven't completed R yet so total count of languages by now is 15.
+> The reason behind 15 languages is that I'm 15 years old. 
 
 #### Most common HTML,CSS and JS Frameworks I use:<br>
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
