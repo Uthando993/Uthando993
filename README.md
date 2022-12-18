@@ -31,8 +31,8 @@
 [![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)](https://r-project.org/) 
 [![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)](https://ruby-lang.org/) 
 [![Swift](https://img.shields.io/badge/swift%204-F54A2A?style=for-the-badge&logo=swift&logoColor=white)](https://swift.org/) 
-![SQL](https://img.shields.io/badge/sql-FFF400?style=for-the-badge)
-![ASP](https://img.shields.io/badge/asp-F44?style=for-the-badge)<br>
+[![SQL](https://img.shields.io/badge/sql-FFF400?style=for-the-badge)](https://iso.org/standard/63555.html) 
+[![ASP](https://img.shields.io/badge/asp-F44?style=for-the-badge)](https://asp.net/)<br>
 
 > I don't use these languages much I just wanted to gain experience by knowing them.
 
@@ -46,3 +46,4 @@
 ## Connect with me:
 [![Medium](https://img.shields.io/badge/-Medium-212121?logo=medium&logoWidth=20&logoColor=white&style=for-the-badge)](https://s-pandey.medium.com/)
 [![Sololearn](https://img.shields.io/badge/-Sololearn-aa11aa?logo=sololearn&logoColor=white&style=for-the-badge)](https://www.sololearn.com/profile/20594116)
+### Connect me here **snehil@googlegroups.com**
