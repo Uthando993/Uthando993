@@ -5,8 +5,8 @@
 <h4><p align="center">Hey There👋<br>I'm Snehil Pandey.<br>A Learner.</p></h4>
 
 
-## GitHub Profile Stats:
-[![Profile Views](https://komarev.com/ghpvc/?username=Uthando993&color=0e75b6&style=for-the-badge)](https://#) 
+## 📊 GitHub Profile Stats
+[![Profile Views](https://komarev.com/ghpvc/?username=Uthando993&color=0e75b6&style=for-the-badge)](https://#) [![Followers](https://img.shields.io/github/followers/uthando993?style=for-the-badge&color=0e75b6&labelColor=565656)](https://#) [![Stars](https://img.shields.io/github/stars/Uthando993?color=0e75b6&style=for-the-badge)](https://#) 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Uthando993&show_icons=true&locale=en&theme=github_dark" alt="Stats"/><br>
@@ -14,7 +14,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Uthando993&show_icons=true&locale=en&layout=compact&theme=github_dark" alt="activity"/><br>
 </div><br>
   
-## My Coding Details:
+
+
+## 🏆 GitHub Trophies
+<div align="center ">
+  <img src="https://github-profile-trophy.vercel.app/?username=uthando993&theme=darkhub&no-frame=false&no-bg=false&margin-w=4">
+</div>
+
+## 💻 My Coding Details
 #### My mostly preferred coding languages:<br>
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://html5.org) 
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://ecma-international.org/publications-and-standards/standards/ecma-262) 
@@ -22,7 +29,7 @@
 [![Python](https://img.shields.io/badge/python%203-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://python.org/)
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)](https://java.com) 
 
-#### Other languages I know:
+#### Other languages I know
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)](https://open-std.org/jtc1/sc22/wg14) 
 [![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp) 
 [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/) 
@@ -39,18 +46,20 @@
 > I haven't completed R yet so total count of languages by now is 15.  
 > The reason behind 15 languages is that I'm 15 years old. 
 
-#### Most common HTML,CSS and JS Frameworks I use:<br>
+#### Most common HTML,CSS and JS Frameworks I use<br>
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 <br>
 
-## Featured Repository:
+## Featured Repositories
 [![Terminal](https://github-readme-stats.vercel.app/api/pin/?username=Uthando993&repo=Terminal&show_icons=true&theme=github_dark)](https://github.com/Uthando993/Terminal)<br>
 [![360Image](https://github-readme-stats.vercel.app/api/pin/?username=Uthando993&repo=360Image&show_icons=true&theme=github_dark)](https://github.com/Uthando993/360Image)
 
-## Connect with me:
+##  🔁 Connect with me
 [![Medium](https://img.shields.io/badge/-Medium-212121?logo=medium&logoWidth=20&logoColor=white&style=for-the-badge)](https://s-pandey.medium.com/)
 [![Sololearn](https://img.shields.io/badge/-Sololearn-aa11aa?logo=sololearn&logoColor=white&style=for-the-badge)](https://www.sololearn.com/profile/20594116)
 #### Reach me here **snehil@googlegroups.com**
