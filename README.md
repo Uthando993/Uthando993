@@ -9,17 +9,17 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=Uthando993&color=0e75b6&style=for-the-badge)](https://#) [![Followers](https://img.shields.io/github/followers/uthando993?style=for-the-badge&color=0e75b6&labelColor=565656)](https://#) [![Stars](https://img.shields.io/github/stars/Uthando993?color=0e75b6&style=for-the-badge)](https://#) 
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=Uthando993&show_icons=true&locale=en&theme=github_dark&hide_border=true&background=0d1017" alt="Stats"/><br>
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Uthando993&theme=dark&hide_border=true&background=0d1017&ring=4c8eda&fire=4c8eda&currStreakLabel=4c8eda" alt="Streak"/> <br>
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Uthando993&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1017" alt="activity"/><br>
-  <img width="60%" src="https://github-readme-activity-graph.cyclic.app/graph?username=Uthando993&bg_color=0d1017&color=58a5fd&line=75aaff&point=ffffff&hide_border=true"><br>
+  <img width="90%" src="https://github-readme-stats.vercel.app/api?username=Uthando993&show_icons=true&locale=en&theme=github_dark&hide_border=true&background=0d1017" alt="Stats"/><br>
+  <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Uthando993&theme=dark&hide_border=true&background=0d1017&ring=4c8eda&fire=4c8eda&currStreakLabel=4c8eda" alt="Streak"/> <br>
+  <img width="90%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Uthando993&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1017" alt="activity"/><br>
+  <img width="90%" src="https://github-readme-activity-graph.cyclic.app/graph?username=Uthando993&bg_color=0d1017&color=58a5fd&line=75aaff&point=ffffff&hide_border=true"><br>
 </div><br>
   
 
 
 ## 🏆 GitHub Trophies
 <div align="center ">
-  <img width="70%" src="https://github-profile-trophy.vercel.app/?username=uthando993&theme=darkhub&no-frame=true&no-bg=false&margin-w=4">
+  <img width="90%" src="https://github-profile-trophy.vercel.app/?username=uthando993&theme=darkhub&no-frame=true&no-bg=false&margin-w=4">
 </div>
 
 ## 💻 My Coding Details
