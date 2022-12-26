@@ -58,7 +58,7 @@
 ## Featured Repositories
 [![Terminal](https://github-readme-stats.vercel.app/api/pin/?username=Uthando993&repo=Terminal&show_icons=true&theme=github_dark)](https://github.com/Uthando993/Terminal)<br>
 [![360Image](https://github-readme-stats.vercel.app/api/pin/?username=Uthando993&repo=360Image&show_icons=true&theme=github_dark)](https://github.com/Uthando993/360Image)  
-[![color-detector](https://github-readme-stats.vercel.app/api/pin/?username=Uthando993&repo=color-detector&show_icons=true&theme=github_dark)](https://github.com/Uthando993/color-detector)
+[![color-detector](https://github-readme-stats.vercel.app/api/pin/?username=Uthando993&repo=color-detector&theme=github_dark&show_icons=true)](https://github.com/Uthando993/color-detector)
 
 ##  🔁 Connect with me
 [![Medium](https://img.shields.io/badge/-Medium-212121?logo=medium&logoWidth=20&logoColor=white&style=for-the-badge)](https://s-pandey.medium.com/)
