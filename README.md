@@ -6,20 +6,20 @@
 
 
 ## 📊 GitHub Profile Stats
-[![Profile Views](https://komarev.com/ghpvc/?username=Uthando993&color=0e75b6&style=for-the-badge)](https://#) [![Followers](https://img.shields.io/github/followers/uthando993?style=for-the-badge&color=0e75b6&labelColor=565656)](https://#) [![Stars](https://img.shields.io/github/stars/Uthando993?color=0e75b6&style=for-the-badge)](https://#) 
+[![Profile Views](https://komarev.com/ghpvc/?username=snehil-pandey&color=0e75b6&style=for-the-badge)](https://#) [![Followers](https://img.shields.io/github/followers/snehil-pandey?style=for-the-badge&color=0e75b6&labelColor=565656)](https://#) [![Stars](https://img.shields.io/github/stars/snehil-pandey?color=0e75b6&style=for-the-badge)](https://#) 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Uthando993&show_icons=true&locale=en&theme=github_dark&hide_border=true&background=0d1017" alt="Stats"/><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Uthando993&theme=dark&hide_border=true&background=0d1017&ring=4c8eda&fire=4c8eda&currStreakLabel=4c8eda" alt="Streak"/> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Uthando993&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1017" alt="activity"/><br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Uthando993&bg_color=0d1017&color=58a5fd&line=75aaff&point=ffffff&hide_border=true"><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=snehil-pandey&show_icons=true&locale=en&theme=github_dark&hide_border=true&background=0d1017" alt="Stats"/><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snehil-pandey&theme=dark&hide_border=true&background=0d1017&ring=4c8eda&fire=4c8eda&currStreakLabel=4c8eda" alt="Streak"/> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=snehil-pandey&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1017" alt="activity"/><br>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=snehil-pandey&bg_color=0d1017&color=58a5fd&line=75aaff&point=ffffff&hide_border=true"><br>
 </div><br>
   
 
 
 ## 🏆 GitHub Trophies
 <div align="center ">
-  <img src="https://github-profile-trophy.vercel.app/?username=uthando993&theme=darkhub&no-frame=true&no-bg=false&margin-w=4">
+  <img src="https://github-profile-trophy.vercel.app/?username=snehil-pandey&theme=darkhub&no-frame=true&no-bg=false&margin-w=4">
 </div>
 
 ## 💻 My Coding Details
@@ -56,9 +56,9 @@
 <br>
 
 ## Featured Repositories
-[![Terminal](https://github-readme-stats.vercel.app/api/pin/?username=Uthando993&repo=Terminal&show_icons=true&theme=github_dark)](https://github.com/Uthando993/Terminal)<br>
-[![360Image](https://github-readme-stats.vercel.app/api/pin/?username=Uthando993&repo=360Image&show_icons=true&theme=github_dark)](https://github.com/Uthando993/360Image)  
-[![color-detector](https://github-readme-stats.vercel.app/api/pin/?username=Uthando993&repo=color-detector&theme=github_dark&show_icons=true)](https://github.com/Uthando993/color-detector)  
+[![Terminal](https://github-readme-stats.vercel.app/api/pin/?username=snehil-pandey&repo=Terminal&show_icons=true&theme=github_dark)](https://github.com/Uthando993/Terminal)<br>
+[![360Image](https://github-readme-stats.vercel.app/api/pin/?username=snehil-pandey&repo=360Image&show_icons=true&theme=github_dark)](https://github.com/Uthando993/360Image)  
+[![color-detector](https://github-readme-stats.vercel.app/api/pin/?username=snehil-pandey&repo=color-detector&theme=github_dark&show_icons=true)](https://github.com/Uthando993/color-detector)  
 [![sample-projects](https://github-readme-stats.vercel.app/api/pin/?username=Uthando993&repo=sample-projects&theme=github_dark&show_icons=true)](https://github.com/Uthando993/sample-projects) 
 
 ##  🔁 Connect with me
