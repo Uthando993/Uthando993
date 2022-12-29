@@ -58,7 +58,7 @@
 ## Featured Repositories
 [![Terminal](https://github-readme-stats.vercel.app/api/pin/?username=snehil-pandey&repo=Terminal&show_icons=true&theme=github_dark)](https://github.com/snehil-pandey/Terminal)<br>
 [![360Image](https://github-readme-stats.vercel.app/api/pin/?username=snehil-pandey&repo=360Image&show_icons=true&theme=github_dark)](https://github.com/snehil-pandey/360Image)  
-[![color-detector](https://github-readme-stats.vercel.app/api/pin/?username=snehil-pandey&repo=color-detector&theme=github_dark&show_icons=true)](https://github.com/Uthando993/color-detector)  
+[![color-detector](https://github-readme-stats.vercel.app/api/pin/?username=snehil-pandey&repo=color-detector&theme=github_dark&show_icons=true)](https://github.com/snehil-pandey/color-detector)  
 [![sample-projects](https://github-readme-stats.vercel.app/api/pin/?username=snehil-pandey&repo=sample-projects&theme=github_dark&show_icons=true)](https://github.com/snehil-pandey/sample-projects) 
 
 ##  🔁 Connect with me
