@@ -10,7 +10,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=snehil-pandey&show_icons=true&locale=en&theme=github_dark&hide_border=true&background=0d1017" alt="Stats"/><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=snehil-pandey&theme=dark&hide_border=true&background=0d1017&ring=4c8eda&fire=4c8eda&currStreakLabel=4c8eda" alt="Streak"/> <br>
+  <img src="https://streak-stats.demolab.com?user=snehil-pandey&theme=dark&hide_border=true&background=0D1017&ring=4C8EDA&fire=4C8EDA&currStreakLabel=4C8EDA" alt="Streak"/> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=snehil-pandey&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1017" alt="activity"/><br>
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=snehil-pandey&bg_color=0d1017&color=58a5fd&line=75aaff&point=ffffff&hide_border=true"><br>
 </div><br>
