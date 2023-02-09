@@ -2,7 +2,7 @@
   <img src="https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/76873947?s=400&u=dee7d615e6c699251b4dcfd3f44ff71a75a2eff5&v=4h=300&w=300&fit=cover&mask=circle&maxage=7d" alt="3D-avatar" width="200px"/> 
 </div>
 
-<h4><p align="center">Hey There👋<br>I'm Snehil Pandey.<br>A Learner.</p></h4>
+<h4><p align="center">Hey There👋<br>I'm Snehil Pandey.<br>A full stack developer and AI artist.</p></h4>
 
 
 ## 📊 GitHub Profile Stats
